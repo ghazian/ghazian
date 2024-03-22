@@ -19,6 +19,9 @@ projects, participation in conferences, and exploring advanced tutorials.
 
 **Skills:** Clean Code, Extreme Programming, CI/CD (Github Actions) & Accessibility
 
+### Work 
+I currently work as a Software Engineer at IMG Arena!
+
 <!--
 **ghazian/ghazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
